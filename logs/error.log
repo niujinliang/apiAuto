@@ -1,0 +1,2 @@
+2018-07-23 15:15:47  [ main:5266 ] - [ ERROR ]  发送邮件异常:javax.mail.AuthenticationFailedException: 535 Error: authentication failed
+
